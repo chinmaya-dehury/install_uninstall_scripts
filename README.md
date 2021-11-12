@@ -4,7 +4,8 @@ Repository for all scripts to install and uninstall software tools.
 
 # Docker
 * Clone the repository
-  ```cd install_uninstall_scripts
+  ```
+  cd install_uninstall_scripts
   chmod +x install_docker.sh
   sudo ./install_docker.sh
   ```
@@ -12,7 +13,8 @@ Repository for all scripts to install and uninstall software tools.
 
 # Gitlab-runner
 * Clone the repository 
-  ```cd install_uninstall_scripts
+  ```
+  cd install_uninstall_scripts
   chmod +x install_gitlab-runner.sh
   sudo ./install_gitlab-runner.sh
   ```
